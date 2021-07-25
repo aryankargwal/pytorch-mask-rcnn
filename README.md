@@ -17,12 +17,12 @@ The purpose of segmentation is to make an image more intelligible and easier to 
 In Layman's terms, image segmentation is the process of assigning a label to every pixel in an image such that pixels with the same label share certain characteristics.
 
 ### Types of Image Segmentation
-- [Thresholding Segmentation](https://www.analytixlabs.co.in/blog/what-is-image-segmentation#method1)
-- [Edge-Based Segmentation](https://www.analytixlabs.co.in/blog/what-is-image-segmentation#method2)
-- [Region-Based Segmentation](https://www.analytixlabs.co.in/blog/what-is-image-segmentation#method3)
-- [Watershed Segmentation](https://www.analytixlabs.co.in/blog/what-is-image-segmentation#method5)
-- [Clustering-Based Segmentation Algorithms](https://www.analytixlabs.co.in/blog/what-is-image-segmentation#method4)
-- [Neural Netw)orks for Segmentation](https://www.analytixlabs.co.in/blog/what-is-image-segmentation#method6)
+- [Thresholding Segmentation](https://www.analytixlabs.co.in/blog/what-is-image-segmentation#method1) <br>
+- [Edge-Based Segmentation](https://www.analytixlabs.co.in/blog/what-is-image-segmentation#method2) <br>
+- [Region-Based Segmentation](https://www.analytixlabs.co.in/blog/what-is-image-segmentation#method3) <br>
+- [Watershed Segmentation](https://www.analytixlabs.co.in/blog/what-is-image-segmentation#method5) <br>
+- [Clustering-Based Segmentation Algorithms](https://www.analytixlabs.co.in/blog/what-is-image-segmentation#method4) <br>
+- [Neural Netw)orks for Segmentation](https://www.analytixlabs.co.in/blog/what-is-image-segmentation#method6) <br>
 
 ## Instance  Segmentation
 <img src = "https://miro.medium.com/max/2000/1*JpMn7MNESnA3lYmpdIcpUw.png" height = "300px">
