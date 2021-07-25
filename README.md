@@ -29,7 +29,7 @@ In Layman's terms, image segmentation is the process of assigning a label to eve
 Instance Segmentation is identifying each object instance for every known object within an image. Instance segmentation assigns a label to each pixel of the image.
 
 ## Resources
-[PPT Link](https://docs.google.com/presentation/d/1t7u_gatm86AICuacH789ijvXLa2qngtvb9z9oJKXMas/edit?usp=sharing)
-[Colab Notebook](https://colab.research.google.com/drive/11014_9Loz6AfTFjAAZRt7r1KbvRHkvBW?usp=sharing)
-[Papers with Code](https://paperswithcode.com/paper/mask-r-cnn)
-[ICCV Presentation](https://www.youtube.com/watch?v=g7z4mkfRjI4)
+[PPT Link](https://docs.google.com/presentation/d/1t7u_gatm86AICuacH789ijvXLa2qngtvb9z9oJKXMas/edit?usp=sharing)<br>
+[Colab Notebook](https://colab.research.google.com/drive/11014_9Loz6AfTFjAAZRt7r1KbvRHkvBW?usp=sharing)<br>
+[Papers with Code](https://paperswithcode.com/paper/mask-r-cnn)<br>
+[ICCV Presentation](https://www.youtube.com/watch?v=g7z4mkfRjI4)<br>
